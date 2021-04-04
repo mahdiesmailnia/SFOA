@@ -1,4 +1,4 @@
-# sofa
+# SFOA
 sheep flock optimization algorithm
 
 A novel swarm intelligence algorithm inspired by the grazing of sheep
